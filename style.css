@@ -1,0 +1,133 @@
+body {
+	background-color:#E3E3E3;
+	margin:0;
+}
+a {
+	text-decoration:none;
+}
+.color1{
+	color:#545454;
+}
+.Logo {
+	height:80px;
+	width:352px;
+}
+.Header{
+	height:auto;
+	width:100%;
+	background-color:white;
+	box-shadow: 10px 10px 5px grey;
+
+}
+.Container {
+	height:100%;
+	width:100%
+  background-color:white;
+}
+.Welcome-Box {
+	height:auto;
+	width: 500px;
+	margin-left:50px;
+	background-color:white;
+}
+.sidenav {
+  margin-left:20px;
+  margin-right:10px;
+  width:25%;
+  height:auto;
+  background-color:#F7E63B;
+  float:left;
+}
+.Main-Box {
+  width: 70%;
+  float:right;
+  background-color:white;
+  margin-right:15px;
+}
+
+input {
+  width: 60%;
+  padding: 12px;
+  border: 2px solid #D6D6D6;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; 
+}
+.button {
+	width: 30%;
+  padding: 12px;
+  border: 2px solid #D6D6D6;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; 
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
+.button2 {
+		width: 30%;
+  padding: 12px;
+  border: 2px solid #D6D6D6;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; 
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  font-family:Arial;
+
+}
+input:hover,
+.button:hover {
+  opacity: 1;
+}
+
+{box-sizing: border-box;}
+
+.heading1 {
+	font-family:Arial;
+}
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.0043px;
+  background-color:#545454;
+  text-align: center;
+  color:white;
+  font-family:Arial;
+}
+.Note-Box {
+      float:left;
+        height:800;
+        width:400;
+        margin-left:120px;
+        margin-bottom:20px; 
+        background-color:white;
+}
+    #article-title {
+            font-family:sans-serif;
+        }
+.profile-image {
+  border-radius:50%;
+  border-style:solid;
+  border-color:white;
+}
+.sidenav-elements {
+  font-family: Arial;
+  font-size: 18px;
+  color:black;
+}
